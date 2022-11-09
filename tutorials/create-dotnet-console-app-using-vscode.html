@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create A .NET console application using VS Code</title>
+  </head>
+  <body>
+    <h1>Create A .NET console application using VS Code</h1>
+    <ol>
+      <li>Start Visual Studio Code</li>
+      <li>
+        In the Open Folder dialog create a <i>folder</i> and select it, then
+        click <strong>Select Folder</strong>
+      <p>
+        The folder name becomes the project name and the namespace by default.
+      </p></li>
+      <li>In the <strong>Do you trust the authers of the files in this folder?</strong>dialog, select <strong>Yes, I trust the authors.</strong></li>
+      <li>Open the <strong>Terminal</strong> in Visual Studio Code by selecting <strong>View > Terminal</strong> from the main menu.
+    <p>The <strong>Termnal</strong>opens with the command prompt in the <i>projectFolder<i> folder</p></li>
+        <li>In the <strong>Terminal</strong>, enter the following command:
+        <code>dotnet new console --framework net6.0</code></li>
+        <li>The project template creates a simple application that displays "Hello World" in the console window by calling the Console.WriteLine(String) method in Program.cs
+            <code>Console.WriteLine("Hello, World!)</code>
+        </li>
+        <li>Replace the contents of the <i>Program.cs</i> with the following code:
+        <code>namespace ProjectName
+          {
+            class Program
+            {
+              static void Main(string[] args)
+              {
+                Console.WriteLine("Hello World!");
+              }
+            }
+          }
+        </code><ul><li>The above code defines a class, Program, with a single method, Main, that makes a String array as an argument.</li>
+        <li>Main is the application entry point, the method that's called automatically by the runtime when it launches the application</li>
+          <li>Any command-line arguments supplied when the application is launched are available in the args array.</li>
+      </ul>
+        </li>
+        <li>To run the app: 
+          <code>dotnet run</code>
+        </li>
+    </ol>
+    
+    <h2>Notes</h2>
+  </body>
+</html>
