@@ -1,0 +1,15 @@
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Repos\Boopedia2022\boo-web-development\frameworks\boo-.net\projects\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
