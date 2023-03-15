@@ -4,3 +4,6 @@
 [submodule "programming/boo-asp.net"]
 	path = programming/boo-asp.net
 	url = https://github.com/BOO1980/boo-asp.net.git
+[submodule "programming/boo-xamarin"]
+	path = programming/boo-xamarin
+	url = https://github.com/BOO1980/boo-xamarin.git
