@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+projects/WhatsMyName/obj/Debug/net6.0/WhatsMyName.AssemblyInfo.cs
