@@ -10,3 +10,6 @@
 [submodule "framework/boo-entity"]
 	path = framework/boo-entity
 	url = https://github.com/BOO1980/boo-entity.git
+[submodule "boo-asp.net"]
+	path = boo-asp.net
+	url = https://github.com/BOO1980/boo-asp.net.git
